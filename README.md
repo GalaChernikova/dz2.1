@@ -18,7 +18,8 @@
 1. Дизайн-студия имени Слишком Известного Персонажа
 1. Ниже пример кода из нашего приложения:
 
-```.selector {
+```
+.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
